@@ -53,4 +53,4 @@ Have an old Arduino and some generic drone parts? You don't need a $1,000 rig to
 4. 상단 [연결하기] 바를 눌러 블루투스 장비(HM-10)를 찾아 페어링한 뒤, **Arm(시동)** 버튼을 누르고 비행하세요!
 
 ---
-*Created by [Seungmin Lee]* | *Pull Requests are always welcome!*
+*Created by [adgk2349]* | *Pull Requests are always welcome!*
